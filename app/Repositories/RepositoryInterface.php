@@ -4,7 +4,7 @@ namespace App\Repositories;
 
 /**
  * Interface RepositoryInterface
- * @package App\MeridianMotors\Repositories
+ * @package App\Repositories
  */
 interface RepositoryInterface
 {
